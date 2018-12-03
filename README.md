@@ -21,8 +21,10 @@ pip install discord.py
 
 ## Variables
 
-SERVERIP = "example.org:1234"
+SERVERIP = "example.org:1234"<br />
 
 Enter your mc server ip into the variable SERVERIP <br />
+<br />
+
 TOKEN = ''
 Enter your discord bot's token here
